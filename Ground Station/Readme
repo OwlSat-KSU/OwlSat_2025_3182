@@ -1,0 +1,7 @@
+Here are the list of folders:
+-->Data ---> This folder contains Data collecting from Ground Station code and stored in a .csv format.
+-->Latest_version ---> This folder contains the final version of Ground Station code. (Note used on the launch Day, 
+                                                                                       can still improve)
+-->Simulation_data ---> This folder contains the data points for simulation mode. (Note these are arbitary data points 
+                                                                                   of a rcoket launch)
+-->Tester_codes ---> This folder contains python code there puropse will be test radio operate and collect basic infromation of them.
