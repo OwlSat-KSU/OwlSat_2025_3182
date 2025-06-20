@@ -1,0 +1,28 @@
+//Mosfet ON/OFF(Low Power Mode);
+CMD,3182,CX,ON,    
+CMD,3182,CX,OFF,
+
+//Calibration 
+CMD,3182,ST,01:25:33,
+CMD,3182,ST,GPS,
+CMD,3182,CAL,
+
+//Mechanical testing
+CMD,3182,MEC,BoomStick,ON,Speed,
+CMD,3182,MEC,BoomStick,OFF,
+
+CMD,3182,MEC,PinRelease,ON,
+CMD,3182,MEC,PinRelease,OFF,
+
+CMD,3182,MEC,BEEP,ON,
+CMD,3182,MEC,BEEP,OFF,
+
+//Simulation Mode
+CMD,3182,SIM,ENABLE,
+CMD,3182,SIM,ACTIVATE,
+CMD,3182,SIM,DISABLE,
+CMD,3182,SIMP,XXXX,
+
+//High level testing of all components
+//removed for FSW_5_0
+CMD,3182,TEST,
