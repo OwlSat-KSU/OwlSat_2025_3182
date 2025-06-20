@@ -1,4 +1,4 @@
-Here are the list of folders:
+Here is the list of folders:
 -->Data ---> This folder contains Data collecting from Ground Station code and stored in a .csv format.
 -->Latest_version ---> This folder contains the final version of Ground Station code. (Note used on the launch Day, 
                                                                                        can still improve)
