@@ -1,0 +1,2 @@
+Cansat_2023_simp ---> a simple text file containing the expected structure of the commands to be sent via ground station to the payload. The data being sent is pressure data in kPa from a simulated rocket launch. 
+(Note 3182 is the team ID, change if needed)
