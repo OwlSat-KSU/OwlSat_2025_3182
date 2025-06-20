@@ -1,0 +1,4 @@
+Folder contents:
+--> Launch_data ---> This folder contains .csv file that was collected during the launch day.
+--> testing_data ---> This folder contains file in the format .csv. The file are data collected during our testing period, this also include simulation mode results.
+--> event_log ---> This file contain log of commands recived from Flight Software and also includes commands sent. 
