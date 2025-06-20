@@ -1,0 +1,7 @@
+This folder contains:
+--> First_generation:
+---> This folder contains the very first set of codes we have generated. These codes are very basic GUI and not necessarily focused on achieving the goal of transmitting or receiving data. 
+--> Second_generation:
+---> This folder contains the very second set of codes we have generated. The codes inside this folder are Python scripts that somewhat meet the requirements for the competition. 
+--> Ground_station_alpha_version :
+---> This folder contain python files that have gone through heavy between each iterations, all becuase these python scripts are the transition edits between each genration and higher the number it is somewhat closer to final version.
